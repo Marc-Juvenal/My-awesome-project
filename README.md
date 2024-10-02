@@ -1,2 +1,2 @@
-# My-awesome-project
+# My-awesome-project.
 local-distant
